@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+// colors
+$mainBlack: #222;
+$mainWhite: #fff;
+$mainGray: #ececec;
+$mainred: #cf455c;
+
+body {
+    background: white;
+    height: 100vh;
+    color: $mainWhite;
+    font-family: 'Cutive Mono', monospace;
+}
